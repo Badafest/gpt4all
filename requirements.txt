@@ -1,0 +1,5 @@
+langchain==0.0.189
+gpt4all==0.2.3
+llama-cpp-python==0.1.49
+qdrant-client==1.2.0
+flask==2.3.2
